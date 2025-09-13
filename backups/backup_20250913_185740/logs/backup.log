@@ -1,0 +1,10 @@
+2025-09-13 18:43:07 - INFO: Starting backup of directories /home/stpdcybersec/docker-app-system/data /home/stpdcybersec/docker-app-system/logs to '/home/stpdcybersec/docker-app-system/backups/backup_20250913_184307.tar.gz'.
+tar: data/postgres: Функция open завершилась с ошибкой: Отказано в доступе
+tar: Завершение работы с состоянием неисправности из-за возникших ошибок
+2025-09-13 18:43:07 - ERROR: Script failed at line 43
+2025-09-13 18:56:56 - INFO: Starting backup of directories /home/stpdcybersec/docker-app-system/data /home/stpdcybersec/docker-app-system/logs to '/home/stpdcybersec/docker-app-system/backups/backup_20250913_185656.tar.gz'.
+2025-09-13 18:57:07 - SUCCESS: Archive '/home/stpdcybersec/docker-app-system/backups/backup_20250913_185656.tar.gz' created successfully.
+2025-09-13 18:57:07 - INFO: Verifying archive integrity.
+2025-09-13 18:57:09 - SUCCESS: Archive '/home/stpdcybersec/docker-app-system/backups/backup_20250913_185656.tar.gz' verified successfully.
+2025-09-13 18:57:09 - SUCCESS: Backup process completed successfully.
+2025-09-13 18:57:40 - INFO: Starting backup of directories /home/stpdcybersec/docker-app-system/data /home/stpdcybersec/docker-app-system/logs to '/home/stpdcybersec/docker-app-system/backups/backup_20250913_185740.tar.gz'.
