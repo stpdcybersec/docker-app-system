@@ -125,5 +125,5 @@ drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 13 18:43 logs
 2025-09-13 19:14:19 - SUCCESS: Backup process completed successfully.
 ```
 6. Скриншоты веб интерфейса, чтобы было видно адресную строку и имя базы данных, списка таблиц
-https://raw.githubusercontent.com/stpdcbersec/docker-app-system/a369112c9ac7a2013db3a52f6a3ebed232a6ec6d/screenshots/1.png
-https://raw.githubusercontent.com/stpdcbersec/docker-app-system/a369112c9ac7a2013db3a52f6a3ebed232a6ec6d/screenshots/2.png
+https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/1.png
+https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/2.png
