@@ -2,11 +2,11 @@
 ## Установка и запуск
 `````
 # Клонирование репозитория
-git clone <your-repo-url>
+git clone <url репозитория>
 cd docker-app-system
 
 # Создание необходимых директорий
-mkdir -p nginx data/postgres logs/nginx scripts backups
+mkdir -p nginx data logs scripts backups
 
 # Запуск системы
 docker-compose up -d
