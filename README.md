@@ -2,7 +2,7 @@
 ## Установка и запуск
 `````
 # Клонирование репозитория
-git clone <url репозитория>
+git clone <https url/ssh url>
 cd docker-app-system
 
 # Создание необходимых директорий
@@ -109,14 +109,14 @@ drwxrwxrwx  2 dnsmasq      systemd-journal  4096 сен 13 17:20 pg_xact
 -rwxrwxrwx  1 dnsmasq      systemd-journal    36 сен 13 19:44 postmaster.opts
 -rw-------  1 dnsmasq      systemd-journal    94 сен 13 19:44 postmaster.pid
 ```
-5. Результат выполнения работы скрипта (список файлов, cat логов)
+5. Результат выполнения работы скрипта (список файлов)
 ```
 drwxrwxr-x 4 stpdcybersec stpdcybersec 4096 сен 13 18:57 .
 drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 13 19:14 ..
 drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 13 17:20 data
 drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 13 18:43 logs
 ```
-
+6. Результат выполнения работы скрипта (cat логов)
 ```
 2025-09-13 19:14:06 - INFO: Starting backup of directories /home/stpdcybersec/docker-app-system/data /home/stpdcybersec/docker-app-system/logs to '/home/stpdcybersec/docker-app-system/backups/backup_20250913_191406.tar.gz'.
 2025-09-13 19:14:17 - SUCCESS: Archive '/home/stpdcybersec/docker-app-system/backups/backup_20250913_191406.tar.gz' created successfully.
@@ -124,6 +124,6 @@ drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 13 18:43 logs
 2025-09-13 19:14:19 - SUCCESS: Archive '/home/stpdcybersec/docker-app-system/backups/backup_20250913_191406.tar.gz' verified successfully.
 2025-09-13 19:14:19 - SUCCESS: Backup process completed successfully.
 ```
-6. Скриншоты веб интерфейса, чтобы было видно адресную строку и имя базы данных, списка таблиц
+7. Скриншоты веб интерфейса, чтобы было видно адресную строку и имя базы данных, списка таблиц
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/1.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/1.png)
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/2.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/2.png)
