@@ -1,5 +1,0 @@
-2025-09-13 19:14:06 - INFO: Starting backup of directories /home/stpdcybersec/docker-app-system/data /home/stpdcybersec/docker-app-system/logs to '/home/stpdcybersec/docker-app-system/backups/backup_20250913_191406.tar.gz'.
-2025-09-13 19:14:17 - SUCCESS: Archive '/home/stpdcybersec/docker-app-system/backups/backup_20250913_191406.tar.gz' created successfully.
-2025-09-13 19:14:17 - INFO: Verifying archive integrity.
-2025-09-13 19:14:19 - SUCCESS: Archive '/home/stpdcybersec/docker-app-system/backups/backup_20250913_191406.tar.gz' verified successfully.
-2025-09-13 19:14:19 - SUCCESS: Backup process completed successfully.
