@@ -162,4 +162,15 @@ drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 18 14:01 logs
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/4.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/4.png)
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/5.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/5.png)
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/6.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/6.png)
-
+8. Список используемой литературы:
+   1. Модуль ngx_http_proxy_moduled: https://nginx.org/ru/docs/http/ngx_http_proxy_module.html;
+   2. PgAdmin Container Deployment Reverse proxying HTTP via Nginx: https://www.pgadmin.org/docs/pgadmin4/latest/container_deployment.html;
+   3. bash: Бэкап без лишнего ПО: https://habr.com/ru/articles/136313/?ysclid=mfm1vfazlj986397684;
+   4. bash скрипты: https://habr.com/ru/companies/ruvds/articles/325522/?ysclid=mfm1tst66e249931431;
+   5. Настройка Nginx: https://habr.com/ru/articles/66764/?ysclid=mfmzkhgqio696265236;
+   6. Продвинутое конфигурирование Docker Compose (перевод): https://habr.com/ru/companies/otus/articles/337688/?ysclid=mfm1nii59e419316278;
+   7. Прочный фундамент для API: Docker + Node.js + Nginx + Postgres: https://proglib.io/p/prochnyy-fundament-dlya-api-docker-node-js-nginx-postgres-2022-10-05?ysclid=mfm1zdpx263316145;
+   8. Переменные окружения для начинающих разработчиков или использование .env файла в разработке программного обеспечения:       https://habr.com/ru/companies/gnivc/articles/792082/?ysclid=mfm1iaicx9628214249;
+   9. Мониторинг контейнеров с помощью cAdvisor: https://habr.com/ru/companies/otus/articles/887396/?ysclid=mfnr996fnk106358160;
+   10. cAdvisor: https://github.com/google/cadvisor?ysclid=mfpa1zh6en204204398;
+   11. PostgreSQL Server Exporter: https://github.com/prometheus-community/postgres_exporter?ysclid=mfpfakznf5592170019.
