@@ -158,3 +158,8 @@ drwxrwxr-x 3 stpdcybersec stpdcybersec 4096 сен 18 14:01 logs
 7. Скриншоты веб интерфейса, чтобы было видно адресную строку и имя базы данных, списка таблиц
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/1.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/1.png)
 [https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/2.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/2.png)
+[https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/3.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/3.png)
+[https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/4.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/4.png)
+[https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/5.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/5.png)
+[https://raw.githubusercontent.com/stpdcbersec/docker-app-system/screenshots/6.png](https://github.com/stpdcybersec/docker-app-system/blob/main/screenshots/6.png)
+
