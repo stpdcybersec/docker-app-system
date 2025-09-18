@@ -2,7 +2,7 @@
 ## Установка и запуск
 `````
 # Клонирование репозитория
-git clone <https url/ssh url>
+git clone https://github.com/stpdcybersec/docker-app-system.git
 cd docker-app-system
 
 # Создание необходимых директорий
